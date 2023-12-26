@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMWithDaggerAndAPI</string>
+    <string name="add_people">Add people</string>
+    <string name="image">Image</string>
+</resources>
